@@ -13,5 +13,6 @@ RUN echo "Work directory was updated to /app"
 RUN pip3 install -r requirements.txt
 RUN echo "Dependencies from requirements.txt were installed successfully."
 EXPOSE 5000
+RUN echo "Port 5000 is exposed."
 CMD ["python3", "app.py"]
 RUN echo "Running app.py"
