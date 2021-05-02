@@ -21,7 +21,7 @@ Go to your VMs IP address.
 http://YOUR-IP-HERE:5000
 ```
 # 
-# [spring-petclinic](https://hub.docker.com/repository/docker/devdot4/flaskex)
+# [spring-petclinic](https://hub.docker.com/repository/docker/devdot4/spring-petclinic)
 ![spring-petclinic](spring-petclinic.png)
 ## Usage
 Pull the image.
